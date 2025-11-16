@@ -1,0 +1,44 @@
+FAQ! - A.U.R.A. (Artificial Understanding & Response Architecture)
+
+1. What is A.U.R.A.?
+
+A.U.R.A. (Artificial Understanding & Response Architecture) is a modular, biologically inspired cognitive framework designed to create synthetic systems capable of adaptive perception, emotional state propagation, and contextually grounded responses. The public documentation provides high-level architecture and system diagrams, while implementation and internal logic remain private.
+
+2. Can I access the full system code or data?
+
+No. The internal JSON files, prototype code, and experimental implementations are kept private to protect intellectual property and maintain research integrity. Only conceptual diagrams, changelog, and README are public.
+
+3. Can I collaborate on A.U.R.A.?
+
+At this stage, A.U.R.A. is under active internal development. Collaboration is not currently available. Serious inquiries can be considered once the prototype is further along and ready for controlled external review.
+
+4. Can I replicate or build a similar system?
+
+The public files show only the high-level architecture and development history. Recreating the system from these files alone is extremely difficult, as the core algorithms, internal logic, and iterative refinements are not published.
+
+5. Can I ask technical questions?
+
+Yes. Conceptual questions about the architecture or general AI principles are welcome.
+
+Example safe question: “How does the Limbic module interface with memory?”
+
+Example unsafe question: “Can you provide the JSON for memory retrieval?” (will not be shared)
+
+6. How can I stay updated on A.U.R.A.?
+
+Follow the public repository. Updates to README, CHANGELOG, and SYSTEM_DIAGRAMS will be posted there. When new features or prototypes are ready for safe external demonstration, they will be announced.
+
+7. Contact Information
+
+For research inquiries, collaborations, or professional correspondence, please contact the project owner through the repository’s official contact information.
+
+8. General Notes
+
+The purpose of the public repo is documentation and transparency about the system architecture.
+
+All internal files, prototypes, and experimental data remain confidential.
+
+Any misuse or attempts to extract private implementation details is strictly forbidden.
+
+
+ly prohibited.
